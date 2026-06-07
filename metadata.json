@@ -1,0 +1,6 @@
+{
+  "name": "TACOLAB",
+  "description": "Next-generation Tex-Mex fast food ordering experience with personalized AI recommendations, gamified loyalty rewards, live Kitchen Display (KDS), and drive-thru modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
